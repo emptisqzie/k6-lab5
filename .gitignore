@@ -1,0 +1,11 @@
+# Временные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Файлы редакторов
+.vscode/
+.idea/
+
+# Временные файлы Python
+__pycache__/
+*.pyc
